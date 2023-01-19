@@ -8,7 +8,7 @@ metadata:
   name: bgd
   namespace: bgd
 spec:
-  host: ""
+  host: "bgd.apps-crc.testing"
   port:
     targetPort: 8080
   to:
