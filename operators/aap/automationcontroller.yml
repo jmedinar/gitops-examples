@@ -1,7 +1,7 @@
 apiVersion: automationcontroller.ansible.com/v1beta1
 kind: AutomationController
 metadata:
-  name: example
+  name: automationcontroller1
   namespace: ansible-automation-platform
 spec:
   create_preload_data: true
