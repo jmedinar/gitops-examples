@@ -1,5 +1,5 @@
 resources:
-- bgd-deployment.yaml
-- bgd-namespace.yaml
-- bgd-svc.yaml
-- bgd-route.yaml
+- bgd-deployment.yml
+- bgd-namespace.yml
+- bgd-svc.yml
+- bgd-route.yml
